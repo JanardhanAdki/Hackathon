@@ -1,2 +1,2 @@
 # Hackathon
-Code Repository for ING Hackathon
+Code Repository for  Hackathon
